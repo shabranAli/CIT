@@ -86,4 +86,8 @@ Perhaps the most well-known computer security threat, a computer virus is a prog
   . Testimonial section <br/>
   . Blogs section <br/>
   . Clients section <br/>
-  . footer section 
+  # footer section
+  . logo and content <br/>
+  . nav link <br/>
+  . social icons <br/>
+  . subscription form
