@@ -10,7 +10,7 @@ Clients, also known as service requesters, are pieces of computer hardware or se
 
 world wide web
 
-# internet 
+# What is internet 
 berners lee
 
 
@@ -42,4 +42,17 @@ Dynamic websites server-side scripting languages such as JavaScript, PHP, or ASP
 #  Virus and Threat
 
 Virus & threat protection in Windows Security helps you scan for threats on your device. You can also run different types of scans, see the results of your previous virus and threat scans, and get the latest protection offered by Microsoft Defender Antivirus.
+
+# About security Threats
+In Information Security threats can be many like Software attacks, theft of intellectual property, identity theft, theft of equipment or information, sabotage, and information extortion.
+
+## Spythreats
+A serious computer security threat, spyware is any program that monitors your online activities or installs programs without your consent for profit or to capture personal information. We’ve amassed a wealth of knowledge that will help you combat spyware threats and stay safe online.
+
+## computer virus
+Perhaps the most well-known computer security threat, a computer virus is a program written to alter the way a computer operates, without the permission or knowledge of the user. A virus replicates and executes itself, usually doing damage to your computer in the process.
+
+## Phishing
+
+ Masquerading as a trustworthy person or business, phishers attempt to steal sensitive financial or personal information through fraudulent email or instant messages. Phishing attacks are some of the most successful methods for cybercriminals looking to pull off a data breach. Antivirus solutions with identity theft protection can be "taught" to recognize phishing threats in fractions of a second. 
 
