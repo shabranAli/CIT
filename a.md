@@ -37,14 +37,31 @@ Dynamic websites server-side scripting languages such as JavaScript, PHP, or ASP
 Static website contents is the fixed pages content. each pagee in code in HTML display the same information to every visitors. means static website fast than dynamic websites.
 
 
-Dynamic websites server-side scripting languages such as JavaScript, PHP, or ASP. When a user accesses a dynamic website, the site can be changed through code that is run in the browser and on the server. it is very loaded files compaire on static websites.   
+Dynamic websites server-side scripting languages such as JavaScript, PHP, or ASP. When a user accesses a dynamic website, the site can be changed through code that is run in the browser and on the server. it is very loaded files compaire on static websites. 
+
+<br/>
+<br/>
+<br/>
+. Virus and Threat <br/>
+. About Security Threats <br/>
+. SpyThreats <br/>
+. Computer virus <br/>
+. Phishing <br/>
+<br/>
+<br/>
+<br/>
+
+
 
 #  Virus and Threat
 
 Virus & threat protection in Windows Security helps you scan for threats on your device. You can also run different types of scans, see the results of your previous virus and threat scans, and get the latest protection offered by Microsoft Defender Antivirus.
 
 # About security Threats
-In Information Security threats can be many like Software attacks, theft of intellectual property, identity theft, theft of equipment or information, sabotage, and information extortion.
+In Information Security threats can be many like Software attacks, theft of intellectual property, identity theft, theft of equipment or information, sabotage, and information extortion. <br/>
+
+
+
 
 ## Spythreats
 A serious computer security threat, spyware is any program that monitors your online activities or installs programs without your consent for profit or to capture personal information. We’ve amassed a wealth of knowledge that will help you combat spyware threats and stay safe online.
@@ -55,4 +72,3 @@ Perhaps the most well-known computer security threat, a computer virus is a prog
 ## Phishing
 
  Masquerading as a trustworthy person or business, phishers attempt to steal sensitive financial or personal information through fraudulent email or instant messages. Phishing attacks are some of the most successful methods for cybercriminals looking to pull off a data breach. Antivirus solutions with identity theft protection can be "taught" to recognize phishing threats in fractions of a second. 
-
