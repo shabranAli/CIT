@@ -72,3 +72,18 @@ Perhaps the most well-known computer security threat, a computer virus is a prog
 ## Phishing
 
  Masquerading as a trustworthy person or business, phishers attempt to steal sensitive financial or personal information through fraudulent email or instant messages. Phishing attacks are some of the most successful methods for cybercriminals looking to pull off a data breach. Antivirus solutions with identity theft protection can be "taught" to recognize phishing threats in fractions of a second. 
+
+# Website using strategies
+ . first top bar <br/> 
+ . navbar with logo <br/>
+ ## Hero section
+ left content and right image <br/>
+  
+  # inner body content <br/>
+  . About us section <br>
+  . service section <br/>
+  . Recent Work <br/>
+  . Testimonial section <br/>
+  . Blogs section <br/>
+  . Clients section <br/>
+  . footer section 
