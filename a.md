@@ -10,7 +10,7 @@ Clients, also known as service requesters, are pieces of computer hardware or se
 
 world wide web
 
-# What is internet 
+# internet 
 berners lee
 
 
